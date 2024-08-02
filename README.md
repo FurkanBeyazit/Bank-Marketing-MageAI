@@ -49,5 +49,3 @@ This project also includes integration with MAGEAI's ETL (Extract, Transform, Lo
 To replicate the results (결과를 재현하려면), follow the instructions in the `src` folder (src 폴더의 지침을 따르십시오). All necessary scripts, including loaders, transformers, and custom ML components, along with data preprocessing steps (필요한 모든 스크립트와 데이터 전처리 단계), are provided (제공됩니다).
 
 ---
-
-Please ensure that all necessary files and folders are present in your repository to match the structure described in the README. This comprehensive guide will help both English and Korean speakers understand the project's objectives and methodologies.
